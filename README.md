@@ -2,7 +2,7 @@
 
 ## 💻  Sobre
 Projeto desenvolvido com HTML e CSS, totalmente responsivo.<br>
-🖥️ Acesse a página clicando [aqui](https://health.io.app/)
+🖥️ Acesse a página clicando [aqui](https://healthio.vercel.app/)
 
 ## 🎨  Layout
 
