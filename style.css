@@ -390,6 +390,10 @@ footer {
         height: 100vh;
     }
 
+    nav {
+        margin: 20px;
+    }
+
     nav a {
         display: none;
     }
@@ -531,7 +535,7 @@ footer {
 
     nav {
         flex-direction: column;
-        margin: 20px 0;
+        margin: 20px;
     }
 
     nav a {
@@ -704,6 +708,10 @@ footer {
 
     nav a {
         display: none;
+    }
+
+    nav {
+        margin: 20px;
     }
 
     nav .small-circle{
@@ -1022,5 +1030,4 @@ footer {
         margin: 160px 0 30px 0;
     }
 }
-
 /*👽
