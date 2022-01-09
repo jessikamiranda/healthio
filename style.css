@@ -778,8 +778,7 @@ footer {
     }
 
     #design .circle {
-        left: 30%;
-        top: 300%;
+        display: none;
     }
 
     #design .design-text-topics h2 {
