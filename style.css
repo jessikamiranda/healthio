@@ -85,6 +85,7 @@ nav a:hover {
     width: 308px;
     height: 655px;
     margin-bottom: 120px;
+    object-fit: contain;
 }
 
 .content-text h1 {
